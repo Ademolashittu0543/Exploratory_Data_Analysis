@@ -29,7 +29,7 @@ This repository contains an Exploratory Data Analysis (EDA) performed on a pizza
 - `Pizza_Delivery_EDA.pdf`: Compiled PDF version of the notebook (generated using the provided script).
 - `EDA.py`: Re-executable code.
 - `README.md`: This file.
-- `seaborn`: Enhanced_pizza_sell_data_2024-25.xlsx
+- `Dataset`: Enhanced_pizza_sell_data_2024-25.xlsx
 
 ## Usage
 1. Open `EDA.ipynb` in Google Colab or a local Jupyter environment.
